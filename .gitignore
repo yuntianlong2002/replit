@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+/build/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
